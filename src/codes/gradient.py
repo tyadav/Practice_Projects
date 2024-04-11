@@ -1,4 +1,4 @@
-#Gradient Descent
+# Gradient Descent
 new_x = 3
 previous_x = 0
 step_multiplier = 0.1
