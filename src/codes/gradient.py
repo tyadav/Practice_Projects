@@ -1,4 +1,4 @@
-# Gradient Descent
+#Gradient Descent
 new_x = 3
 previous_x = 0
 step_multiplier = 0.1
@@ -11,3 +11,4 @@ for n in range(30):
 print('Local minimum occurs at:', new_x)
 print('Slope or df(x) value at this point is:', df(new_x))
 print('f(x) value or cost at this point is:', f(new_x))
+
